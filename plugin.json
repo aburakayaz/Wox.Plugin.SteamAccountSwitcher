@@ -1,0 +1,13 @@
+{
+    "ID":"5314722c-f6aa-4ebf-8666-6c693412a276",
+    "ActionKeyword":"stacc",
+    "Name":"Steam Account Switcher",
+    "Description":"Switch your steam account using TcNo Account Switcher",
+    "Author":"aburakayaz",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/aburakayaz/Wox.Plugin.SteamAccountSwitcher",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"switcher.py",
+    "Disabled": true
+}
