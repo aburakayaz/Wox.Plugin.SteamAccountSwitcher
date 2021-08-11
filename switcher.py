@@ -41,7 +41,7 @@ class SteamAccountSwitcher(Wox):
         return results
 
     def switch(self, steamId64):
-        os.system("tcno:\\\\s:" + steamId64)
+        os.system("\"C:/Program Files/TcNo Account Switcher/Steam/TcNo Account Switcher Steam.exe\" +" + steamId64)
         return None
 
 if __name__ == "__main__":
